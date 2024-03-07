@@ -2,6 +2,8 @@
 # Proyecto-Integrador-M5-AirBnB-
 
 <details>
- 
-  **<summary>Pautas</summary>**  
-<div id='id0' /> 
+  <summary>✨ Descubre las Pautas</summary>
+
+  <div id='id0' />
+  
+
